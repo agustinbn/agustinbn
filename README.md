@@ -1,4 +1,4 @@
-# What's Up, I'm Agustín Bianchi! 👋🏽
+## What's Up, I'm Agustín Bianchi! 👋🏽
 
 <p style="text-align: justify">
 I'm an 18-year-old currently pursuing a degree in Software Engineering. I'm passionate about coding, problem-solving, and building software. I enjoy exploring various technologies and always eager to learn and grow in the tech field
