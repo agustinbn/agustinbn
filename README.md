@@ -1,5 +1,5 @@
-## Hey There, I’m Agustín Bianchi! 👋🏽
+<h2><b>Hi, I’m Agustín Bianchi!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-I’m an 18-year-old Software Engineering student at the University of Buenos Aires, fueled by a love for coding, problem-solving, and crafting awesome software. I’m all about diving into new technologies, tinkering with ideas, and leveling up my skills in the evolving tech world.
+I’m an 18-year-old Software Engineering student at the University of Buenos Aires, passionate about coding, tackling challenges, and developing innovative software. I enjoy learning new technologies and improving my skills in the world of tech.
 
-Take a peek at my repositories, drop an issue, or hit me up to team up on some cool projects—I’m always up for a challenge! 😊
+Look at my repositories, leave a comment, or contact me to work together on fun projects—I’m always ready for something new! 😊
